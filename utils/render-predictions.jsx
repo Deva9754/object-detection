@@ -14,11 +14,6 @@
 
 // //bounding box
 // ctx.strokeStyle = isPerson ? "#FF0000" :"#00FFFF";
-// ctx.lineWidth = 4;
-// ctx.strokeRect (x, y, width, height);
-
-// //fill the color
-// ctx.fillStyle = `rgba(255, 0, 0, ${isPerson ? 0.2 : 0})`;
 
 
 import {throttle} from "lodash";
