@@ -8,7 +8,7 @@
 //     ctx.font = font;
 //     ctx.textBaseline="top";
 
-//     predictions.forEach((prediction)=>{
+
 
 
 
