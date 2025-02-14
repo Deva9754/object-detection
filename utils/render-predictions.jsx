@@ -12,8 +12,7 @@
 // const [x, y, width, height]=prediction["bbox"];
 // const isPerson =prediction.class ==="person";
 
-// //bounding box
-// ctx.strokeStyle = isPerson ? "#FF0000" :"#00FFFF";
+
 
 
 import {throttle} from "lodash";
