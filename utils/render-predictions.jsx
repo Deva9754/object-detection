@@ -9,8 +9,7 @@
 //     ctx.textBaseline="top";
 
 //     predictions.forEach((prediction)=>{
-// const [x, y, width, height]=prediction["bbox"];
-// const isPerson =prediction.class ==="person";
+
 
 
 
